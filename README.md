@@ -1,1 +1,1 @@
-<img src="books.svg"
+<img src="books.svg">
