@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+	<title>Logo-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 46px;fill: #a80204;font-weight: 700;font-family: "DejaVuSerifCondensed-Bold", "DejaVu Serif Condensed" } 
+		.t1 { font-size: 46px;fill: #0b0076;font-weight: 400;font-family: "DelaGothicOne-Regular", "Dela Gothic One" } 
+	</style>
+	<g id="e">
+		<text id="Tizi " style="transform: matrix(.438,0,0,.438,.886,27.733)" >
+			<tspan x="0" y="0" class="t0">T</tspan><tspan  y="0" class="t0">i</tspan><tspan  y="0" class="t0">z</tspan><tspan  y="0" class="t0">i</tspan><tspan  y="0" class="t1">
+</tspan>
+		</text>
+		<text id="
+" style="transform: matrix(1,0,0,1,3,31.9)" >
+		</text>
+	</g>
+</svg>
